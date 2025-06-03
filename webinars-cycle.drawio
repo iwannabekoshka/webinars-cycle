@@ -204,7 +204,7 @@
           <mxGeometry x="1000" y="490" width="430" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fHD7VVw9tAXZrAjb_sFF-117" value="&lt;h1&gt;Вопросы&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="500" width="430" height="30" as="geometry" />
+          <mxGeometry x="1000" y="490" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fHD7VVw9tAXZrAjb_sFF-119" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Письма буду аналогично текущим вебинарам: за день, за час и за 15 минут + по нажатию на кнопку &quot;Отправить&quot; в админке? Мб стоит 1 письмо за день/за час до вебинара? Или сделать механизм выбора частоты оповещения?&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Точно ли нужны картинки вебинарам? Мб хватит одной для страницы?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Мб сделать оповещения в телеге?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="550" width="410" height="240" as="geometry" />
